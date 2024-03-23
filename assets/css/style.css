@@ -22,3 +22,9 @@ p {
     background-color: beige;
     padding: 50px;
     }
+.picture {
+    background: url(../images/istockphoto-684090194-612x612.jpg) no-repeat left;
+    margin: 0; 
+    width: 50%;
+    height: 500px;
+}
