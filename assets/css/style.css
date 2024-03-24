@@ -121,7 +121,7 @@ margin: 0;
 }
 #contact {
     background-color: beige;
-    padding: 100px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -198,5 +198,11 @@ margin: 0;
     }
     #contact p {
         font-size: 1.5rem;
+    }
+    #social-networks {
+        gap: 60px;
+    }
+    #contact {
+        padding: 100px;
     }
 }
