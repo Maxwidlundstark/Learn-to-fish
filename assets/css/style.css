@@ -133,9 +133,11 @@ margin: 0;
 #contact p {
     font-size: 0.7rem;
 }
-.social-networks {
+#social-networks {
     display: flex;
-    gap: 30px
+    gap:40px;    
+    justify-content: center;
+    align-content: center;
 }
 @media screen and (min-width: 768px) {
 
