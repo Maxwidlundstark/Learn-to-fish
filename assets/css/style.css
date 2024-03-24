@@ -134,7 +134,8 @@ margin: 0;
     font-size: 0.7rem;
 }
 .social-networks {
-    
+    display: flex;
+    gap: 30px
 }
 @media screen and (min-width: 768px) {
 
