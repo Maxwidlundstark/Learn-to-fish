@@ -82,16 +82,19 @@ a:hover {
     text-align: left;
     border: 2px solid darkgreen;
     padding-left: 90px;
-    background: url(../images/pexels-karolina-grabowska-6478126.jpg)no-repeat center center / cover;
+    background-color: beige;
 }
 .about-cover {
-    background-color: rgba(205, 209, 228, 0.8);
+    background-color: rgba(1, 50, 32, 0.5);
     border: 1px solid beige;
     border-radius: 20px;
     padding: 50px;
+    color: #fafafa;
 }
-#about h2, #about p {
-    color: white;
-    font-weight: bolder;
+.about-cover h3 {
+    color: #fafafa;
 }
 
+@media screen and (min-width: 768px) {
+
+}
