@@ -73,6 +73,7 @@ a {
     font-size: 1rem;
     text-decoration: none;
 }
+/* making hover effects on navbar*/
 a:hover {
     border-bottom: 2px solid blue;
 }
@@ -83,6 +84,7 @@ a:hover {
     border: 2px solid darkgreen;
     background-color: beige;
 }
+/* course content*/
 .about-cover {
     background-color: rgba(1, 50, 32, 0.5);
     border: 1px solid beige;
@@ -94,10 +96,11 @@ a:hover {
 .about-cover h3 {
     color: #fafafa;
 }
+/* removing dots in list*/
 .about-cover li {
     list-style-type: none;
 }
-
+/* sign up section*/
 #signup {
     background: url(../images/pexels-photo-17213802.webp)no-repeat center center / cover;
     color: beige;
@@ -106,6 +109,7 @@ a:hover {
 #signup h3 {
     color: beige;
 }
+/* styling for type text*/
 input {
     border-radius: 5px;
     font-size: 1rem;
@@ -119,9 +123,11 @@ input {
     border-radius: 5px;
     background-color: beige;
 }
+/* General footer styling*/
 footer {
 margin: 0;
 }
+/* styling for contact content*/
 #contact {
     background-color: beige;
     padding: 50px;
@@ -136,12 +142,14 @@ margin: 0;
 #contact p {
     font-size: 0.7rem;
 }
+/* Icons for socialmedia*/
 #social-networks {
     display: flex;
     gap:40px;    
     justify-content: center;
     align-content: center;
 }
+/*Responsive styling for bigger screens*/
 @media screen and (min-width: 768px) {
 
     .cover-picture {
