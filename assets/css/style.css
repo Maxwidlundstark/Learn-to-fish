@@ -154,8 +154,9 @@ margin: 0;
 
     .cover-picture {
         padding: 15px;
-        right: 50px;
-        top: 35px;
+        right: 60px;
+        top: 55px;
+        left:60px;
         border-radius: 20px;
     }
     #about {
