@@ -94,6 +94,9 @@ a:hover {
 .about-cover h3 {
     color: #fafafa;
 }
+.about-cover li {
+    list-style-type: none;
+}
 
 #signup {
     background: url(../images/pexels-photo-17213802.webp)no-repeat center center / cover;
