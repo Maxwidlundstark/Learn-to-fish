@@ -13,20 +13,18 @@ body {
     display: flex;
     font-family:Georgia, 'Times New Roman', Times, serif;
     flex-direction: column;
+    border: 2px solid darkgreen
     
 }
 h1 {
     color: darkgreen;
     font-size: 1.3rem;
 }
-h2 {
+h2, h3 {
     color: darkgreen;
     font-size: 1rem;
 }
-h3 {
-    color:darkgreen;
-    font-size: 0.9rem;
-}
+
 p {
     color: darkgreen;
     font-size: 0.7rem;
@@ -173,7 +171,7 @@ margin: 0;
         font-size: 1.7rem;
     }
     h3 {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     p {
         font-size: 1.2rem;
