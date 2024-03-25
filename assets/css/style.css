@@ -84,16 +84,13 @@ a:hover {
     border: 1px solid beige;
     border-radius: 20px;
     padding: 50px;
-    color: #fafafa;
+    color: white;
     font-size: 0.7rem;
 }
 .about-cover h3 {
     color: #fafafa;
 }
-/* removing dots in list*/
-.about-cover li {
-    list-style-type: none;
-}
+
 /* sign up section*/
 #signup {
     background: url(../images/pexels-lumn-294674.jpg)no-repeat center center / cover;
