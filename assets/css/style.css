@@ -80,7 +80,7 @@ a:hover {
 }
 /* course content*/
 .about-cover {
-    background-color: rgba(1, 50, 32, 0.5);
+    background-color: rgba(1, 50, 32, 0.7);
     border: 1px solid beige;
     border-radius: 20px;
     padding: 50px;
@@ -88,7 +88,7 @@ a:hover {
     font-size: 0.7rem;
 }
 .about-cover h3 {
-    color: #fafafa;
+    color: white;
 }
 
 /* sign up section*/
@@ -179,9 +179,7 @@ margin: 0;
     }
     #signup {
         font-size: 2.5rem;
-        padding-left: 100px;
-        padding-top: 30vh;
-        padding-bottom: 30vw;
+        padding: 120px;
         display: block;
         justify-content: center;
     
