@@ -22,7 +22,7 @@ h1 {
 }
 h2, h3 {
     color: darkgreen;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 p {
@@ -98,11 +98,11 @@ a:hover {
 /* sign up section*/
 #signup {
     background: url(../images/pexels-lumn-294674.jpg)no-repeat center center / cover;
-    color: beige;
+    color: blue;
     padding: 40px;
 }
 #signup h3 {
-    color: beige;
+    color: blue;
 }
 /* styling for type text*/
 input {
