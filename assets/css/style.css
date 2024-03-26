@@ -70,7 +70,7 @@ a {
 }
 /* making hover effects on navbar*/
 a:hover {
-    border-bottom: 2px solid blue;
+    border-bottom: 2px solid lightblue;
 }
 /* About us section*/
 #about {
