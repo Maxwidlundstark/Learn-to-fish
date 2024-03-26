@@ -127,7 +127,7 @@ margin: 0;
     gap: 30px;
     text-align: center;
 }
-#contact h2 {
+#contact h2, h3 {
     font-size: 1.2rem;
 }
 #contact p {
@@ -140,6 +140,7 @@ margin: 0;
     justify-content: center;
     align-content: center;
 }
+
 /*Responsive styling for bigger screens*/
 @media screen and (min-width: 768px) {
     .picture {
