@@ -19,7 +19,7 @@ __About us__
 __Sign up__
 ![Sign up image]()
 __Contact__
-![Contact Image]()
+![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
 __Footer__
 ![Footer image]()
 ## Testing 
