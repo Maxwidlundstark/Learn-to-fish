@@ -17,11 +17,9 @@ __The landing page image__
 __About us__ 
 ![About us image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/About-us.PNG)
 __Sign up__
-![Sign up image]()
-__Contact__
+![Sign up image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Sign-up.PNG)
+__Contact footer__
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
-__Footer__
-![Footer image]()
 ## Testing 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 ### Validator Testing
