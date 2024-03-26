@@ -8,14 +8,14 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 
 - __Navigation bar__
- - The navigation bar is fully responsive and include links to About us, Sign up and Contact sections. 
- - This section will allow the users to navigate to every part of the page without having to scroll down. 
+  - The navigation bar is fully responsive and include links to About us, Sign up and Contact sections. 
+  - This section will allow the users to navigate to every part of the page without having to scroll down. 
 
 ![Navbar image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/navbar.PNG)
 
 - __The landing page image__
- - This section of the page introduce the users to the purpose of the site and to catch their attention.
- - To help users get an understanding of the purpose this section has a photograph with an overlay text. 
+  - This section of the page introduce the users to the purpose of the site and to catch their attention.
+  - To help users get an understanding of the purpose this section has a photograph with an overlay text. 
 
 ![Header image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/header.PNG)
 __About us__ 
