@@ -1,5 +1,5 @@
 # Learn to fish
-Learn to fish is a site for all people, we want to educate for a better fishing experience but also to make sure we take care of our nature and the animals that live there. Catch with care is a quote we often use. 
+Learn to fish is a site for all people, we want to educate for a better fishing experience but also to make sure we take care of our nature and the animals that live there. Catch with care is a quote we often use and that is what we strive for with our education. Being able to fish as usual without harming the animals or the environment to much. 
 
 We target everyone that wants to learn something new or maybe just develop with more knowledge. 
 
