@@ -94,11 +94,11 @@ a:hover {
 /* sign up section*/
 #signup {
     background: url(../images/pexels-lumn-294674.jpg)no-repeat center center / cover;
-    color: blue;
+    color: black;
     padding: 40px;
 }
 #signup h3 {
-    color: blue;
+    color: black;
 }
 /* styling for type text*/
 input {
