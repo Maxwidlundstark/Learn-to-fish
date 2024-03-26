@@ -1,8 +1,8 @@
 # Learn to fish
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 Learn to fish is a site for all people, we want to educate for a better fishing experience but also to make sure we take care of our nature and the animals that live there. Catch with care is a quote we often use. 
 
 We target everyone that wants to learn something new or maybe just develop with more knowledge. 
+
 ![Mockup image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Ami%20responsivedesign.PNG)
 
 ## Features
