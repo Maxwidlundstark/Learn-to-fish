@@ -1,6 +1,6 @@
 # Learn to fish
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
-
+![Mockup image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Ami%20responsivedesign.PNG)
 
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to__ achieve and how your project is the best way to help them achieve these things.
@@ -8,18 +8,20 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 
 -__Navigation bar__
-
 -functions
 -screenshot of navbar
+![Navbar image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/navbar.PNG)
 
+__The landing page image__
+![Header image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/header.PNG)
 __About us__ 
-
+![About us image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/About-us.PNG)
 __Sign up__
-
+![Sign up image]()
 __Contact__
-
+![Contact Image]()
 __Footer__
-
+![Footer image]()
 ## Testing 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 ### Validator Testing
