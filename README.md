@@ -18,10 +18,14 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image__
   - This section of the page introduce the users to the purpose of the site and to catch their attention.
-  - To help users get an understanding of the purpose this section has a photograph with an overlay text. 
+  - To help users get an understanding of the purpose this section has a photograph with an overlay text to make it more interesting.  
 
 ![Header image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/header.PNG)
-__About us__ 
+
+- __About us__ 
+  - The About us gives detailed information about our business and what the course offers.  
+  - This section gives the users a better understanding of who we are. The purpose is to showcase our brands identity. 
+
 ![About us image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/About-us.PNG)
 __Sign up__
 ![Sign up image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Sign-up.PNG)
