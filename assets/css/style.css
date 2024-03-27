@@ -57,11 +57,12 @@ nav {
     display: flex;
     justify-content: flex-end;
     background-color: beige;
-    padding: 10px 10px 10px 10px;
+    padding: 1rem 1rem 1rem 1rem;
     }
 nav > #left {
     justify-content: flex-start;
-    padding-right: 40%;
+    position: absolute;
+    left: 1rem;
 }
 #right > a {
     padding-left: 0.5rem;
@@ -179,8 +180,14 @@ margin: 0;
         font-size: 1.2rem;
     }
     a {
-        font-size: 30px;
+        font-size: 1rem;
     }
+    nav {
+        padding: 1rem 1rem 1rem 1rem;
+        }
+    #right > a {
+        padding-left: 1.5rem;
+        }
     #signup {
         font-size: 2.5rem;
         padding: 120px;
