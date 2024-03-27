@@ -28,7 +28,7 @@ In this section, you should go over the different parts of your project, and des
 
 ![About us image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/About-us.PNG)
 
-__Sign up__
+- __Sign up__
   - The Sign up gives the users an opportunity to register and join us for our lessons. 
   - This section has a form that collect details from the users so that they can sign up for lessons.
   The form collects the First name, Last name and email address. 
