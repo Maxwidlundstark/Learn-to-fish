@@ -11,8 +11,8 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 
 - __Navigation bar__
-  - The navigation bar is fully responsive and include links to About us, Sign up and Contact sections. 
-  - This section will allow the users to navigate to every part of the page without having to scroll down. 
+  - The navigation bar is fully responsive and include links to all sections of the site. In the right side you find links to sections About us, Sign up and Contact. In the left side of the navigation it shows site name: LEARN TO FISH that links to the top of the page. 
+  - This will allow the users to navigate to every part of the page without having to scroll down, this both simplifies and saves time for the users. 
 
 ![Navbar image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/navbar.PNG)
 
