@@ -68,6 +68,6 @@ In this section, you should go over the different parts of your project, and des
 
 ## Credits
 __Media__
-- The images on the site is taken from ![Pexels](https://www.pexels.com/sv-se/)
+- The images on the site is taken from [Pexels](https://www.pexels.com/sv-se/)
 - 
 
