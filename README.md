@@ -39,6 +39,8 @@ __Contact Section__
   - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
   - In this section it also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
+### Features Left to Implement
+- Gallery page were users can share pictures of their fishing journeys. 
 
 ## Testing 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
