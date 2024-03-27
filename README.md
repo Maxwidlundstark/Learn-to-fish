@@ -66,8 +66,14 @@ In this section, you should go over the different parts of your project, and des
 ### Bugs 
 - No bugs discovered.
 
+## Deployment
+
+
 ## Credits
+__Content__
+- The Icons in Social media links and about us section were taken from [Font Awesome](https://fontawesome.com/)
+
 __Media__
-- The images on the site is taken from [Pexels](https://www.pexels.com/sv-se/)
-- 
+- The image on the loading-page section is taken from [Pexels](https://www.pexels.com/sv-se/)
+- The image on the sign-up section is taken from [Pexels](https://www.pexels.com/sv-se/)
 
