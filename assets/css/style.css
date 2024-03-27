@@ -53,19 +53,22 @@ p {
     border-radius: 10px;
 }
 /* Styling for Navbar*/
-#right {
+nav {
     display: flex;
     justify-content: flex-end;
-    padding: 20px 15px 20px 20px;
     background-color: beige;
+    padding: 10px 10px 10px 10px;
     }
-#right a {
-    display: inline;
-    padding-left: 1rem;
+nav > #left {
+    justify-content: flex-start;
+    padding-right: 40%;
+}
+#right > a {
+    padding-left: 0.5rem;
     }
 a {
     color: darkgreen;
-    font-size: 1rem;
+    font-size: 0.5rem;
     text-decoration: none;
 }
 /* making hover effects on navbar*/
