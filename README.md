@@ -43,10 +43,12 @@ __Contact Section__
 - Gallery page were users can share pictures of their fishing journeys. 
 
 ## Testing 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-- The page is tested on browsers Chrome, safari & Microsoft Edge. 
+- The page is tested on browsers Chrome, safari & Microsoft Edge.
+
 - The site is fully responsive for all standard screen sizes. i confirmed this by using Devtools.
+
 - I confirmed that all functions and appearances in navigation, landing page image, about us, sign up and contact is working and is easy to understand. 
+
 - I confirmed that the form in sign up works, tested functions: requires entries in every field, only accepting email in email field & submit button. 
 
 ### Validator Testing
