@@ -63,6 +63,7 @@ nav > #left {
     justify-content: flex-start;
     position: absolute;
     left: 1rem;
+    text-transform: uppercase;
 }
 #right > a {
     padding-left: 0.5rem;

@@ -23,13 +23,20 @@ In this section, you should go over the different parts of your project, and des
 ![Header image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/header.PNG)
 
 - __About us__ 
-  - The About us gives detailed information about our business and what the course offers.  
+  - The About us gives detailed information about our business and what the users will learn in the course.  
   - This section gives the users a better understanding of who we are. The purpose is to showcase our brands identity. 
 
 ![About us image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/About-us.PNG)
+
 __Sign up__
+  - The Sign up gives the users an opportunity to register and join us for our lessons. 
+  - This section has a form that collect details from the users so that they can sign up for lessons.
+  The form collects the First name, Last name and email address. 
+
 ![Sign up image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Sign-up.PNG)
+
 __Contact footer__
+  - 
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
 
 ## Testing 
