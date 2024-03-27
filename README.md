@@ -60,9 +60,14 @@ In this section, you should go over the different parts of your project, and des
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 - Accessibility 
   - I confirmed that my colors and background works well together and that the content of the site is easy to read. I did this by running it through lighthouse in Devtools. 
-  
+
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse%20Desktop.PNG)
 
-### bugs 
+### Bugs 
 - No bugs discovered.
+
+## Credits
+__Media__
+- The images on the site is taken from ![Pexels](https://www.pexels.com/sv-se/)
+- 
 
