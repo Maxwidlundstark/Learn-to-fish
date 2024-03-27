@@ -58,8 +58,10 @@ In this section, you should go over the different parts of your project, and des
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
-
-![Lighthouse image]()
+- Accessibility 
+  - I confirmed that my colors and background works well together and that the content of the site is easy to read. I did this by running it through lighthouse in Devtools. 
+  
+![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse%20Desktop.PNG)
 
 ### bugs 
 - No bugs discovered.
