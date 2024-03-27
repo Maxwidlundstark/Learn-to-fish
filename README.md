@@ -72,6 +72,7 @@ In this section, you should go over the different parts of your project, and des
 ## Credits
 __Content__
 - The Icons in Social media links and about us section were taken from [Font Awesome](https://fontawesome.com/)
+- Instructions on how to make certain styling was inspired from [W3Schools](https://www.w3schools.com/)  
 
 __Media__
 - The image on the loading-page section is taken from [Pexels](https://www.pexels.com/sv-se/)
