@@ -146,7 +146,10 @@ margin: 0;
     justify-content: center;
     align-content: center;
 }
-
+/* size of social media icons*/
+#social-networks a {
+    font-size: 1.5rem;
+}
 /*Responsive styling for bigger screens*/
 @media screen and (min-width: 768px) {
     .picture {
@@ -221,6 +224,10 @@ margin: 0;
     #social-networks {
         gap: 60px;
     }
+    /* size of social media icons*/
+#social-networks a {
+    font-size: 2.5rem;
+}
     #contact {
         padding: 100px;
     }
