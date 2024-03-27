@@ -38,7 +38,9 @@ In this section, you should go over the different parts of your project, and des
 - __Contact Section__
   - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
   - In this section it also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
+
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
+
 ### Features Left to Implement
 - Gallery page were users can share pictures of their fishing journeys. 
 
@@ -56,3 +58,9 @@ In this section, you should go over the different parts of your project, and des
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+
+![Lighthouse image]()
+
+### bugs 
+- No bugs discovered.
+
