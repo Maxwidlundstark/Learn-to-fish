@@ -1,7 +1,7 @@
 # Learn to fish
-Learn to fish is a site for all people, we want to educate for a better fishing experience but also to make sure we take care of our nature and the animals that live there. Catch with care is a quote we often use and that is what we strive for with our education. Being able to fish as usual without harming the animals or the environment to much. 
+Learn to fish is a site for all people, we want to educate for a better fishing experience but also to make sure we take care of our nature and the animals that live there. Catch with care is a quote we often use and that is what we strive for with our education. Being able to fish as usual without harming the animals or the environment too much. 
 
-We target everyone that wants to learn something new or maybe just develop with more knowledge. 
+We target everyone that wants to learn something new or maybe just develop more knowledge. 
 
 ![Mockup image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Ami%20responsivedesign.PNG)
 
@@ -37,7 +37,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __Contact Section__
   - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
-  - In this section it also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
+  - This section also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
 
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
 
@@ -47,7 +47,7 @@ In this section, you should go over the different parts of your project, and des
 ## Testing 
 - The page is tested on browsers Chrome, safari & Microsoft Edge.
 
-- The site is fully responsive for all standard screen sizes. i confirmed this by using Devtools.
+- The site is fully responsive for all standard screen sizes. I confirmed this by using Devtools.
 
 - I confirmed that all functions and appearances in navigation, landing page image, about us, sign up and contact is working and is easy to understand. 
 
@@ -67,7 +67,10 @@ In this section, you should go over the different parts of your project, and des
 - No bugs discovered.
 
 ## Deployment
-
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
 __Content__
