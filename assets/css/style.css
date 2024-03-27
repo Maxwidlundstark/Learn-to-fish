@@ -53,13 +53,13 @@ p {
     border-radius: 10px;
 }
 /* Styling for Navbar*/
-#navbar-links {
+#right {
     display: flex;
     justify-content: flex-end;
     padding: 20px 15px 20px 20px;
     background-color: beige;
     }
-#navbar-links a {
+#right a {
     display: inline;
     padding-left: 1rem;
     }
