@@ -101,6 +101,7 @@ a:hover {
     background: url(../images/man-holding-fishing-rod.jpg)no-repeat center center / cover;
     color: black;
     padding: 40px;
+    
 }
 #signup h3 {
     color: black;
@@ -180,6 +181,7 @@ margin: 0;
     .about-cover {
         font-size: 1.2rem;
     }
+    /* styling for navbar*/
     a {
         font-size: 1rem;
     }
@@ -189,6 +191,7 @@ margin: 0;
     #right > a {
         padding-left: 1.5rem;
         }
+        /* styling for signup*/
     #signup {
         font-size: 2.5rem;
         padding: 120px;
@@ -208,6 +211,7 @@ margin: 0;
         border-radius: 10px;
         font-size: 1.5rem;
     }
+    /* styling for contact*/
     #contact h2{
         font-size: 2.5rem;
     }
