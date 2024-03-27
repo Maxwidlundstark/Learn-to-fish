@@ -35,8 +35,9 @@ __Sign up__
 
 ![Sign up image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Sign-up.PNG)
 
-__Contact footer__
-  - 
+__Contact Section__
+  - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
+  - In this section it also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
 
 ## Testing 
