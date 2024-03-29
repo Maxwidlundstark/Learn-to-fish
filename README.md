@@ -93,6 +93,7 @@ In this section, you should go over the different parts of your project, and des
 ### Bugs 
 __Detected bugs__
 - Submit button not showing correct color on mobiles in browser Safari.
+
 __Fixed Bugs__ 
 - Fixed it by specifiying color on the class for submit button. 
 
