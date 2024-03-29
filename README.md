@@ -91,7 +91,9 @@ In this section, you should go over the different parts of your project, and des
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
-- Submit button not showing correct color on mobiles in browser Safari. 
+__Detected bugs__
+- Submit button not showing correct color on mobiles in browser Safari.
+__Fixed Bugs__ 
 - Fixed it by specifiying color on the class for submit button. 
 
 ## Deployment
