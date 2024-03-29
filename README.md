@@ -5,6 +5,8 @@ We target everyone that wants to learn something new or maybe just develop more 
 
 ![Mockup image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Ami%20responsivedesign.PNG)
 
+[Live webpage](https://maxwidlundstark.github.io/Learn-to-fish/)
+
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to__ achieve and how your project is the best way to help them achieve these things.
 
@@ -52,9 +54,17 @@ In this section, you should go over the different parts of your project, and des
 
 - The site is fully responsive for all standard screen sizes. I confirmed this by using Devtools.
 
-- I confirmed that all functions and appearances in navigation, landing page image, about us, sign up and contact is working and is easy to understand. 
+- I confirmed that all functions and appearances is working and is easy to understand in: 
+  - Navigation
+  - Landing page image
+  - About us
+  - Sign up 
+  - Contact 
 
-- I confirmed that the form in sign up works, tested functions: requires entries in every field, only accepting email in email field & submit button. 
+- I confirmed that the form in sign up works. tested functions: 
+  - Requires entries in every field
+  - Only accepting email in email field
+  - Submit button. 
 
 ### Validator Testing
 - HTML
