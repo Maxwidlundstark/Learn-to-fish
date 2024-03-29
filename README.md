@@ -39,13 +39,16 @@ In this section, you should go over the different parts of your project, and des
   - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
   - This section also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
 
-![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
+![Contact Image]()
 
 ### Features Left to Implement
 - Gallery page were users can share pictures of their fishing journeys. 
 
 ## Testing 
-- The page is tested on browsers Chrome, safari & Microsoft Edge.
+- The page is tested on browsers 
+  - Chrome 
+  - Safari 
+  - Microsoft Edge.
 
 - The site is fully responsive for all standard screen sizes. I confirmed this by using Devtools.
 
@@ -61,7 +64,7 @@ In this section, you should go over the different parts of your project, and des
 - Accessibility 
   - I confirmed that my colors and background works well together and that the content of the site is easy to read. I did this by running it through lighthouse in Devtools. 
 
-![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse%20Desktop.PNG)
+![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
 - No bugs discovered.
