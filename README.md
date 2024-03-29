@@ -15,6 +15,7 @@ We target everyone that wants to learn something new or maybe just develop more 
 2. [Testing](#testing)
    1. [validator testing](#validator-testing)
    2. [Bugs](#bugs)
+   3. [Fixed Bugs](#fixed-bugs)
 3. [Deployment](#deployment)
 4. [Credits](#credits)
    1. [Content](#content)
@@ -90,8 +91,7 @@ In this section, you should go over the different parts of your project, and des
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
-- Text got transparent when trying live website on mobile phone. 
-
+- No bugs discovered
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
