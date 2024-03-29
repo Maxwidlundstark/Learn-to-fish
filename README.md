@@ -91,7 +91,8 @@ In this section, you should go over the different parts of your project, and des
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
-- No bugs discovered
+- Submit button not showing correct color on mobiles in browser Safari. 
+- Fixed it by specifiying color for inputs in css. 
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
