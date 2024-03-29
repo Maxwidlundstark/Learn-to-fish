@@ -92,7 +92,7 @@ In this section, you should go over the different parts of your project, and des
 
 ### Bugs 
 - Submit button not showing correct color on mobiles in browser Safari. 
-- Fixed it by specifiying color for inputs in css. 
+- Fixed it by specifiying color on the class for submit button. 
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
