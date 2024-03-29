@@ -95,8 +95,9 @@ In this section, you should go over the different parts of your project, and des
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+  - Click on Pages in the left hand side
+  - From the source section drop-down menu, select the Main Branch
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
 
 The live link can be found here (https://maxwidlundstark.github.io/Learn-to-fish/)
 
