@@ -10,11 +10,11 @@ We target everyone that wants to learn something new or maybe just develop more 
 ## Table of Content
 
 1. [Features](#Features)
-  1. [Existing Features](#existing-features)
-  2. [Features Left to Implement](#features-left-to-implement)
+   1. [Existing Features](#existing-features)
+   2. [Features Left to Implement](#features-left-to-implement)
 2. [Testing](#testing)
-  1. [validator testing](#validator-testing)
-  2. [Bugs](#bugs)
+   1. [validator testing](#validator-testing)
+   2. [Bugs](#bugs)
 3. [Deployment](#deployment)
 4. [Credits](#credits)
 
