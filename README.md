@@ -60,10 +60,10 @@ In this section, you should go over the different parts of your project, and des
 - Gallery page were users can share pictures of their fishing journeys. 
 
 ## Testing 
-- The page is tested on browsers 
+- The page is tested on the following browsers:
   - Google Chrome 
   - Safari 
-  - Microsoft Edge.
+  - Microsoft Edge
 
 - The site is fully responsive for all standard screen sizes. I confirmed this by using Devtools.
 
@@ -74,10 +74,10 @@ In this section, you should go over the different parts of your project, and des
   - Sign up 
   - Contact 
 
-- I confirmed that the form in sign up works. tested functions: 
+- I confirmed that the form in sign up works. I have tested these functions: 
   - Requires entries in every field
   - Only accepting email in email field
-  - Submit button. 
+  - Submit button
 
 ### Validator Testing
 - HTML
@@ -90,13 +90,13 @@ In this section, you should go over the different parts of your project, and des
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
-- No bugs discovered.
+- No bugs discovered
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
 
 ## Credits
 #### __Content__
