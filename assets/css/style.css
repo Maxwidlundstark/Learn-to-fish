@@ -119,6 +119,8 @@ input {
     border: 1px solid darkgreen;
     border-radius: 5px;
     background-color: beige;
+    color: black;
+    padding: 1px;
 }
 /* General footer styling*/
 footer {

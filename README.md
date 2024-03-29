@@ -90,7 +90,8 @@ In this section, you should go over the different parts of your project, and des
 ![Lighthouse image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Lighthouse.PNG)
 
 ### Bugs 
-- No bugs discovered
+- Text got transparent when trying live website on mobile phone. 
+
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
