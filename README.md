@@ -7,6 +7,17 @@ We target everyone that wants to learn something new or maybe just develop more 
 
 [Live webpage](https://maxwidlundstark.github.io/Learn-to-fish/)
 
+## Table of Content
+
+1. [Features](#Features)
+  1. [Existing Features](#existing-features)
+  2. [Features Left to Implement](#features-left-to-implement)
+2. [Testing](#testing)
+  1. [validator testing](#validator-testing)
+  2. [Bugs](#bugs)
+3. [Deployment](#deployment)
+4. [Credits](#credits)
+
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to__ achieve and how your project is the best way to help them achieve these things.
 
