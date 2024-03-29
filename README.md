@@ -21,7 +21,7 @@ We target everyone that wants to learn something new or maybe just develop more 
    2. [Media](#media)
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to__ achieve and how your project is the best way to help them achieve these things.
+In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -51,7 +51,7 @@ In this section, you should go over the different parts of your project, and des
 ![Sign up image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Sign-up.PNG)
 
 - __Contact Section__
-  - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more.
+  - The contact section provides information as email address and phone number. The purpose is to give users the opporunity to ask questions and to find out more about us or the course.
   - This section also includes icons that links users to our social media platforms. This gives user the ability to follow us and encourage them to join our course. The links are set to open in a new tab that allows easy navigation for the user. 
 
 ![Contact Image](https://github.com/Maxwidlundstark/Learn-to-fish/blob/main/docs/Contact.PNG)
@@ -97,6 +97,8 @@ In this section, you should go over the different parts of your project, and des
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+
+The live link can be found here ()
 
 ## Credits
 #### __Content__
